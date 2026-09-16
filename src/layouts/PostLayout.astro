@@ -1,0 +1,36 @@
+---
+import "../styles/global.css";
+import { Font } from "astro:assets";
+const { frontmatter } = Astro.props
+---
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{frontmatter.title}</title>
+    <Font cssVariable="--font-merriweather-sans" preload/>
+    <style>
+      article {
+        margin: auto;
+        max-width: 84ch;
+        padding: 5px;
+      }
+
+      h1 {
+        font-family: serif;
+      }
+
+      article :global(p) {
+        font-family: var(--font-merriweather-sans);
+        font-weight: 400;
+      }
+    </style>
+  </head>
+  <body>
+    <article>
+      <h1>{frontmatter.title}</h1>
+      <hr/>
+      <slot/>
+    </article>
+  </body>
+</html>

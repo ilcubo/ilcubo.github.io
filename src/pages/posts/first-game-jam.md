@@ -1,11 +1,16 @@
-# My first game jam log
+---
+title: "I joined my first game jam"
+first-published: 2026-09-15
+last-edited: 2026-09-15
+layout: ../../layouts/PostLayout.astro
+---
 
 They say that the best way to become a good developer of any kind is through
 experience. As someone who is very much lacking in such things, and has an
 interest in game development that goes way back, I decided to try something new
 this year and took on my first game jam with my friends.
 
-## Hello unity
+## Hello Unity
 My teammates decided on Unity for this project, which I have never touched
 before. The hardest part wasn't learning C#. Getting used to the plugin
 ecosystem was not so easy. And as somewhat with a bit of Godot experience, it took
