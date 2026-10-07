@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="screen-space-coord.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#232323"
+     bordercolor="#f9f9f9"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#272727"
+     inkscape:document-units="px"
+     inkscape:zoom="1.1464844"
+     inkscape:cx="274.75298"
+     inkscape:cy="281.73083"
+     inkscape:window-width="1536"
+     inkscape:window-height="812"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch12"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2a4b55;fill-opacity:1;stroke:#cccccc;stroke-width:2.9703;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="297.02969"
+       height="297.02969"
+       x="107.48515"
+       y="107.48515" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       d="M 256.75,56 V 456"
+       id="path16" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       d="M 456,250.75 H 56"
+       id="path16-7" />
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="471.72769"
+       y="253.7527"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="471.72769"
+         y="253.7527">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="253.60138"
+       y="44.810902"
+       id="text17"><tspan
+         sodipodi:role="line"
+         x="253.60138"
+         y="44.810902"
+         id="tspan18">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="81.117546"
+       y="245.09711"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="81.117546"
+         y="245.09711">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="415.88516"
+       y="244.63907"
+       id="text20"><tspan
+         sodipodi:role="line"
+         x="415.88516"
+         y="244.63907"
+         id="tspan21">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="260.7973"
+       y="423.9046"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="260.7973"
+         y="423.9046">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="writing-mode:lr-tb;direction:ltr;fill:#bebebe;fill-opacity:1;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="260.79727"
+       y="96.817719"
+       id="text23"><tspan
+         sodipodi:role="line"
+         x="260.79727"
+         y="96.817719"
+         id="tspan24">1</tspan></text>
+  </g>
+</svg>
