@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import NavBar from "../components/NavBar.astro";
 import { Font } from "astro:assets";
 const { frontmatter } = Astro.props
 ---
@@ -27,6 +28,7 @@ const { frontmatter } = Astro.props
     </style>
   </head>
   <body>
+    <NavBar/>
     <article>
       <h1>{frontmatter.title}</h1>
       <hr/>
