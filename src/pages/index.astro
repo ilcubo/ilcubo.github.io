@@ -1,5 +1,6 @@
 ---
-
+import "../styles/global.css";
+import NavBar from "../components/NavBar.astro";
 ---
 
 <!DOCTYPE html>
@@ -7,15 +8,24 @@
   <head>
 	  <meta charset="UTF-8">
 	  <title>Home</title>
+	  <style>
+		main {
+		  min-height: 1vh;
+		  padding: 1em;
+		}
+	  </style>
 	</head>
 	<body>
-	  <h1>Hello!</h1>
-		<p>I'm a computer engineering student interested in games, graphics, and simulation.</p>
-		<p>Checkout my <a href="https://www.github.com/ilcubo">Github</a>.</p>
-		<p>I post some stuff here. It's somewhere between a blog and a scratchpad.</p>
-		<ul>
+	  <NavBar/>
+	    <main>
+	    <h1>Hello!</h1>
+	    <p>I'm a computer engineering student interested in games, graphics, and simulation.</p>
+	    <p>Checkout my <a href="https://www.github.com/ilcubo">Github</a>.</p>
+	    <p>I post some stuff here. It's somewhere between a blog and a scratchpad.</p>
+	    <ul>
 		  <li><a href="/posts/first-game-jam">My first game jam</a></li>
-			<li><a href="/posts/box-sdf">Explaining box sdf</a></li>
-		</ul>
+		  <li><a href="/posts/box-sdf">Explaining box sdf</a></li>
+	    </ul>
+	  </main>
 	</body>
 </html>
